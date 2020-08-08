@@ -1,0 +1,13 @@
+input{
+    text-align: right;
+}
+
+#ecran td{
+    width: 10px;
+    height: 10px;
+}
+
+#palette td{
+    width: 60px;
+    height: 60px
+}
